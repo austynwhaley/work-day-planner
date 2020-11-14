@@ -9,14 +9,14 @@
 
 ---
 
-![Screenshot]()
+![Screenshot](./assets\images/WDShw.gif)
 
 
 ---
 
 
 ## Description
-
+A simple application that stores different user input data into different blocks had a lot of fun with this homework and working with Moment javascript 
 
 ---
 
