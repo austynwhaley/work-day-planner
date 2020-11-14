@@ -16,7 +16,7 @@
 
 
 ## Description
-A simple application that stores different user input data into different blocks had a lot of fun with this homework and working with  
+A simple application that stores different user input data into different blocks and modifies those blocks depending on the time of day. I had a lot of fun with this homework and working with moment javascript.
 
 ---
 
